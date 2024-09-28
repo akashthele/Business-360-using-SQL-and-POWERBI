@@ -52,12 +52,25 @@ We implemented a Snowflake Schema data model to ensure efficient querying and re
 ### **Dashboard Design:**
 Based on mockups, the visuals were designed to cater to various business functions:
 - **Home View**: Navigation buttons to various pages
+  
+![HOME](https://github.com/user-attachments/assets/a3b1f9de-0d0a-410f-8369-42d24f964d4e)
+
 - **Finance View**: Financial KPIs and performance indicators
+![FINANCE](https://github.com/user-attachments/assets/d591fca9-3262-440d-8a22-e56dbbbbdd1c)
 - **Sales View**: Sales data breakdown by channel and product
+
+![SALES](https://github.com/user-attachments/assets/995454aa-6b4c-4818-98e6-561b546cb54e)
 - **Marketing View**: Insights into marketing effectiveness
+  ![MARKETING](https://github.com/user-attachments/assets/50666732-e48c-420f-8c0f-0a675bb0c27a)
 - **Supply Chain View**: Inventory, forecast, and logistics tracking
+![SUPPLY CHAIN](https://github.com/user-attachments/assets/d647d6de-b87d-4608-b202-b5892a20bb74)
 - **Executive View**: High-level summaries for leadership
-- **Products View**: Product performance metrics
+
+![EXCECUTIVE VIEW](https://github.com/user-attachments/assets/0b55155e-9f36-4d2c-a5c6-42c587aa0867)
+
+
+
+![SUPPORT](https://github.com/user-attachments/assets/ea587aba-1558-4a57-befe-aa8b988aa867)
 
 
 ---
